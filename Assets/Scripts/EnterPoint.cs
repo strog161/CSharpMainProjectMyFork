@@ -10,11 +10,11 @@ public class EnterPoint : MonoBehaviour
 {
     [SerializeField] private Settings _settings;
     [SerializeField] private Canvas _targetCanvas;
-    private float _timeScale = 0.5f;
+    private float _timeScale = 5f;
     
-    //Привет
+    //ГЏГ°ГЁГўГҐГІ
     /*
-     * Комментарии
+     * ГЉГ®Г¬Г¬ГҐГ­ГІГ Г°ГЁГЁ
      */
     void Start()
     {
